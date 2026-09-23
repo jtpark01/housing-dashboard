@@ -1,0 +1,2580 @@
+{
+  "GHGALL": {
+    "label": "Greenhouse gas emissions - full dataset",
+    "updated": "2026-07-31",
+    "subject": 155,
+    "product": "EECGGE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "CO2": "Carbon dioxide",
+          "CH4": "Methane",
+          "N2O": "Nitrous oxide",
+          "GHGALL": "Total GHG"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      },
+      {
+        "code": "GHGSECTOR",
+        "name": "GHG sector",
+        "values": {
+          "I1": "Industry electricity",
+          "I2": "Industry gas",
+          "I3": "Large industrial installations",
+          "I4": "Industry 'other'",
+          "IALL": "Industry total",
+          "C1": "Commercial electricity",
+          "C2": "Commercial gas",
+          "C3": "Commercial 'other'",
+          "CALL": "Commercial total",
+          "P1": "Public sector electricity",
+          "P2": "Public sector gas",
+          "P3": "Public sector 'other'",
+          "PALL": "Public sector total",
+          "D1": "Domestic electricity",
+          "D2": "Domestic gas",
+          "D3": "Domestic 'other'",
+          "DALL": "Domestic total",
+          "T1": "Road transport (A roads)",
+          "T2": "Road transport (motorways)",
+          "T3": "Road transport (minor roads)",
+          "T4": "Diesel railways",
+          "T5": "Transport 'other'",
+          "TALL": "Transport total",
+          "L1": "Net emissions: forest land",
+          "L2": "Net emissions: cropland",
+          "L3": "Net emissions: grassland",
+          "L4": "Net emissions: wetlands",
+          "L5": "Net emissions: settlements",
+          "L6": "Net emissions: harvested wood products",
+          "L7": "Net emissions: indirect N2O",
+          "LALL": "LULUCF net emissions",
+          "A1": "Agriculture electricity",
+          "A2": "Agriculture gas",
+          "A3": "Agriculture 'other'",
+          "A4": "Agriculture livestock",
+          "A5": "Agriculture soils",
+          "AALL": "Agriculture total",
+          "W1": "Landfill",
+          "W2": "Waste management 'other'",
+          "WALL": "Waste management total",
+          "GTALL": "Grand total"
+        }
+      }
+    ]
+  },
+  "MYE01T01": {
+    "label": "Mid-year population estimates - Northern Ireland",
+    "updated": "2025-09-26",
+    "subject": 153,
+    "product": "PMPE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "MYE": "Mid-year population estimate"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1971": "1971",
+          "1972": "1972",
+          "1973": "1973",
+          "1974": "1974",
+          "1975": "1975",
+          "1976": "1976",
+          "1977": "1977",
+          "1978": "1978",
+          "1979": "1979",
+          "1980": "1980",
+          "1981": "1981",
+          "1982": "1982",
+          "1983": "1983",
+          "1984": "1984",
+          "1985": "1985",
+          "1986": "1986",
+          "1987": "1987",
+          "1988": "1988",
+          "1989": "1989",
+          "1990": "1990",
+          "1991": "1991",
+          "1992": "1992",
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "fiveyrage",
+        "name": "Five year age bands",
+        "values": {
+          "1": "Age 0-4",
+          "2": "Age 5-9",
+          "3": "Age 10-14",
+          "4": "Age 15-19",
+          "5": "Age 20-24",
+          "6": "Age 25-29",
+          "7": "Age 30-34",
+          "8": "Age 35-39",
+          "9": "Age 40-44",
+          "10": "Age 45-49",
+          "11": "Age 50-54",
+          "12": "Age 55-59",
+          "13": "Age 60-64",
+          "14": "Age 65-69",
+          "15": "Age 70-74",
+          "16": "Age 75-79",
+          "17": "Age 80-84",
+          "18": "Age 85-89",
+          "19": "Age 90+",
+          "All": "All"
+        }
+      },
+      {
+        "code": "Sex",
+        "name": "Sex",
+        "values": {
+          "1": "Females",
+          "2": "Males",
+          "All": "All persons"
+        }
+      }
+    ]
+  },
+  "MIG01T02": {
+    "label": "Net Migration - Northern Ireland",
+    "updated": "2025-09-30",
+    "subject": 153,
+    "product": "PMMCC",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "NetMig": "Net Migration"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "broadage7",
+        "name": "Broad age band (7 cat)",
+        "values": {
+          "1": "Age 0-17",
+          "2": "Age 18-24",
+          "3": "Age 25-34",
+          "4": "Age 35-44",
+          "5": "Age 45-54",
+          "6": "Age 55-64",
+          "7": "Age 65+",
+          "All": "All"
+        }
+      },
+      {
+        "code": "Sex",
+        "name": "Sex",
+        "values": {
+          "1": "Females",
+          "2": "Males",
+          "All": "All persons"
+        }
+      },
+      {
+        "code": "type3",
+        "name": "Type",
+        "values": {
+          "UKNET": "United Kingdom Net",
+          "ROWNET": "Rest of World Net",
+          "TOTNET": "Total Net"
+        }
+      }
+    ]
+  },
+  "GHWPLGD": {
+    "label": "Gross Hourly (excluding overtime) and Weekly Pay",
+    "updated": "2025-10-29",
+    "subject": 160,
+    "product": "HEE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "All": "Number of Jobs (Thousands)",
+          "Median": "Median Wage",
+          "Mean": "Mean Wage"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N92000002": "Northern Ireland",
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down"
+        }
+      },
+      {
+        "code": "PR",
+        "name": "Pay Rate",
+        "values": {
+          "Heo": "Hourly (excluding overtime)",
+          "Wkly": "Weekly"
+        }
+      },
+      {
+        "code": "WP",
+        "name": "Working Pattern",
+        "values": {
+          "All": "All",
+          "FT": "Full-Time",
+          "PT": "Part-Time"
+        }
+      },
+      {
+        "code": "Sex",
+        "name": "Sex",
+        "values": {
+          "All": "All Persons",
+          "1": "Females",
+          "2": "Males"
+        }
+      }
+    ]
+  },
+  "GDHIPH": {
+    "label": "Gross disposable household income per head of population",
+    "updated": "2024-09-25",
+    "subject": 71,
+    "product": "PFGDI",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "GDHI": "Gross disposable household income"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "REGION",
+        "name": "Region",
+        "values": {
+          "1": "United Kingdom",
+          "2": "England",
+          "3": "Wales",
+          "4": "Scotland",
+          "5": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "PREJUD": {
+    "label": "Self-reported prejudice against minority ethnic communities",
+    "updated": "2026-05-19",
+    "subject": 149,
+    "product": "CCR",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "PREJUD": "Percentage who self-report being prejudiced against people from minority ethnic communities"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "EQGRP",
+        "name": "Equality group",
+        "values": {
+          "N92000002": "Northern Ireland",
+          "EQ201": "Sex - Female",
+          "EQ202": "Sex - Male",
+          "EQ115": "Age - 18-24",
+          "EQ111": "Age -  25-34",
+          "EQ112": "Age - 35-44",
+          "EQ113": "Age - 45-54",
+          "EQ114": "Age - 55-64",
+          "EQ110": "Age - 65+",
+          "EQ501": "Religion - Catholic",
+          "EQ507": "Religion - Protestant",
+          "EQ504": "Religion - No religion"
+        }
+      }
+    ]
+  },
+  "BELONGNB": {
+    "label": "Sense of belonging to neighbourhood",
+    "updated": "2024-03-22",
+    "subject": 149,
+    "product": "CCR",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "BELONGNB": "Percentage of people who feel a sense of belonging to their neighbourhood"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "EQUALGROUPS",
+        "name": "Equality Groups",
+        "values": {
+          "1": "All adults",
+          "2": "Sex - Adult male",
+          "3": "Sex - Adult female",
+          "4": "Religion - Adult Catholic",
+          "5": "Religion - Adult Protestant",
+          "6": "Religion - Adult No religion",
+          "7": "All young people",
+          "8": "Sex - Young male",
+          "9": "Sex - Young female",
+          "10": "Religion - Young Catholic",
+          "11": "Religion - Young Protestant",
+          "12": "Religion - Young no religion"
+        }
+      }
+    ]
+  },
+  "INDRESPECTEQ": {
+    "label": "Indicator - Respect",
+    "updated": "2024-09-05",
+    "subject": 107,
+    "product": "RESP",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDRESPECT": "Percentage who feel respected"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "EQUALGROUPS",
+        "name": "Equality Groups",
+        "values": {
+          "N92000002": "Northern Ireland",
+          "1": "Sex - Male",
+          "2": "Sex - Female",
+          "37": "Age 18-24",
+          "4": "Age 25-34",
+          "5": "Age 35-49",
+          "6": "Age 50-64",
+          "36": "Age 65+",
+          "9": "Marital status - Single",
+          "10": "Marital status - Married/Civil partnership",
+          "11": "Marital status - Separated",
+          "12": "Marital status - Divorced",
+          "13": "Marital status - Widowed",
+          "14": "Religion - Catholic",
+          "15": "Religion - Protestant",
+          "16": "Religion - Other/no religion",
+          "19": "Disability - Yes",
+          "20": "Disability - No",
+          "21": "Ethnic group - White",
+          "22": "Ethnic group - Other",
+          "23": "Sexual orientation- Heterosexual",
+          "24": "Sexual orientation - Gay/lesbian, bisexual and other",
+          "30": "Urban Rural - Urban",
+          "31": "Urban Rural - Rural",
+          "32": "Urban Rural - Mixed",
+          "33": "Political opinion - Unionist",
+          "34": "Political opinion - Nationalist",
+          "35": "Political opinion - Neither"
+        }
+      }
+    ]
+  },
+  "INDINTREPNI": {
+    "label": "Indicator - International reputation",
+    "updated": "2026-06-03",
+    "subject": 102,
+    "product": "INTREP",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDINTREP": "Northern Ireland's score on Nation Brands Index"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "TRAFFICCOUNT": {
+    "label": "Traffic counts of vehicles at the fifteen main Northern Ireland and Ireland border crossing locations",
+    "updated": "2024-07-10",
+    "subject": 14,
+    "product": "EUEXIT",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "TRAFFICCOUNT": "Number of vehicles crossing border"
+        }
+      },
+      {
+        "code": "TLIST(M1)",
+        "name": "Month",
+        "values": {
+          "2013M03": "2013M03",
+          "2013M04": "2013M04",
+          "2013M05": "2013M05",
+          "2013M06": "2013M06",
+          "2013M07": "2013M07",
+          "2013M08": "2013M08",
+          "2013M09": "2013M09",
+          "2013M10": "2013M10",
+          "2013M11": "2013M11",
+          "2013M12": "2013M12",
+          "2014M01": "2014M01",
+          "2014M02": "2014M02",
+          "2014M03": "2014M03",
+          "2014M04": "2014M04",
+          "2014M05": "2014M05",
+          "2014M06": "2014M06",
+          "2014M07": "2014M07",
+          "2014M08": "2014M08",
+          "2014M09": "2014M09",
+          "2014M10": "2014M10",
+          "2014M11": "2014M11",
+          "2014M12": "2014M12",
+          "2015M01": "2015M01",
+          "2015M02": "2015M02",
+          "2015M03": "2015M03",
+          "2015M04": "2015M04",
+          "2015M05": "2015M05",
+          "2015M06": "2015M06",
+          "2015M07": "2015M07",
+          "2015M08": "2015M08",
+          "2015M09": "2015M09",
+          "2015M10": "2015M10",
+          "2015M11": "2015M11",
+          "2015M12": "2015M12",
+          "2016M01": "2016M01",
+          "2016M02": "2016M02",
+          "2016M03": "2016M03",
+          "2016M04": "2016M04",
+          "2016M05": "2016M05",
+          "2016M06": "2016M06",
+          "2016M07": "2016M07",
+          "2016M08": "2016M08",
+          "2016M09": "2016M09",
+          "2016M10": "2016M10",
+          "2016M11": "2016M11",
+          "2016M12": "2016M12",
+          "2017M01": "2017M01",
+          "2017M02": "2017M02",
+          "2017M03": "2017M03",
+          "2017M04": "2017M04",
+          "2017M05": "2017M05",
+          "2017M06": "2017M06",
+          "2017M07": "2017M07",
+          "2017M08": "2017M08",
+          "2017M09": "2017M09",
+          "2017M10": "2017M10",
+          "2017M11": "2017M11",
+          "2017M12": "2017M12",
+          "2018M01": "2018M01",
+          "2018M02": "2018M02",
+          "2018M03": "2018M03",
+          "2018M04": "2018M04",
+          "2018M05": "2018M05",
+          "2018M06": "2018M06",
+          "2018M07": "2018M07",
+          "2018M08": "2018M08",
+          "2018M09": "2018M09",
+          "2018M10": "2018M10",
+          "2018M11": "2018M11",
+          "2018M12": "2018M12",
+          "2019M01": "2019M01",
+          "2019M02": "2019M02",
+          "2019M03": "2019M03",
+          "2019M04": "2019M04",
+          "2019M05": "2019M05",
+          "2019M06": "2019M06",
+          "2019M07": "2019M07",
+          "2019M08": "2019M08",
+          "2019M09": "2019M09",
+          "2019M10": "2019M10",
+          "2019M11": "2019M11",
+          "2019M12": "2019M12",
+          "2020M01": "2020M01",
+          "2020M02": "2020M02",
+          "2020M03": "2020M03",
+          "2020M04": "2020M04",
+          "2020M05": "2020M05",
+          "2020M06": "2020M06",
+          "2020M07": "2020M07",
+          "2020M08": "2020M08",
+          "2020M09": "2020M09",
+          "2020M10": "2020M10",
+          "2020M11": "2020M11",
+          "2020M12": "2020M12",
+          "2021M01": "2021M01",
+          "2021M02": "2021M02",
+          "2021M03": "2021M03",
+          "2021M04": "2021M04",
+          "2021M05": "2021M05",
+          "2021M06": "2021M06",
+          "2021M07": "2021M07",
+          "2021M08": "2021M08",
+          "2021M09": "2021M09",
+          "2021M10": "2021M10",
+          "2021M11": "2021M11",
+          "2021M12": "2021M12",
+          "2022M01": "2022M01",
+          "2022M02": "2022M02",
+          "2022M03": "2022M03",
+          "2022M04": "2022M04",
+          "2022M05": "2022M05",
+          "2022M06": "2022M06",
+          "2022M07": "2022M07",
+          "2022M08": "2022M08",
+          "2022M09": "2022M09",
+          "2022M10": "2022M10",
+          "2022M11": "2022M11",
+          "2022M12": "2022M12",
+          "2023M01": "2023M01",
+          "2023M02": "2023M02",
+          "2023M03": "2023M03",
+          "2023M04": "2023M04",
+          "2023M05": "2023M05",
+          "2023M06": "2023M06",
+          "2023M07": "2023M07",
+          "2023M08": "2023M08",
+          "2023M09": "2023M09",
+          "2023M10": "2023M10",
+          "2023M11": "2023M11",
+          "2023M12": "2023M12",
+          "2024M01": "2024M01",
+          "2024M02": "2024M02",
+          "2024M03": "2024M03",
+          "2024M04": "2024M04",
+          "2024M05": "2024M05",
+          "2024M06": "2024M06"
+        }
+      },
+      {
+        "code": "VehicleCategory",
+        "name": "Vehicle Description",
+        "values": {
+          "VehicleCategory1": "Car",
+          "VehicleCategory2": "LGV",
+          "VehicleCategory3": "HGV-RIG",
+          "VehicleCategory4": "HGV-ART",
+          "VehicleCategory5": "Bus",
+          "VehicleCategory6": "Caravan",
+          "VehicleCategory7": "Motorbike",
+          "All": "All"
+        }
+      }
+    ]
+  },
+  "LMSLGD": {
+    "label": "Labour Market Status",
+    "updated": "2025-09-08",
+    "subject": 162,
+    "product": "LMSSS",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "EMPN": "Employment number (aged 16 and over)",
+          "EMPR": "Employment rate (aged 16 to 64)",
+          "UNEMPN": "Unemployment number (aged 16 and over)",
+          "UNEMPR": "Unemployment rate (aged 16 and over)",
+          "INACTN": "Economic inactivity number (aged 16 and over)",
+          "INACTR": "Economic inactivity rate (aged 16 to 64)"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N92000002": "Northern Ireland",
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down"
+        }
+      }
+    ]
+  },
+  "NICEI": {
+    "label": "NICEI - Northern Ireland Composite Economic Index",
+    "updated": "2026-06-25",
+    "subject": 125,
+    "product": "EOAEO",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "QuarterlyChange": "Quarterly percentage change",
+          "AnnualChange": "Annual percentage change",
+          "Index": "Index (2023=100)"
+        }
+      },
+      {
+        "code": "TLIST(Q1)",
+        "name": "Quarter",
+        "values": {
+          "2006Q1": "2006Q1",
+          "2006Q2": "2006Q2",
+          "2006Q3": "2006Q3",
+          "2006Q4": "2006Q4",
+          "2007Q1": "2007Q1",
+          "2007Q2": "2007Q2",
+          "2007Q3": "2007Q3",
+          "2007Q4": "2007Q4",
+          "2008Q1": "2008Q1",
+          "2008Q2": "2008Q2",
+          "2008Q3": "2008Q3",
+          "2008Q4": "2008Q4",
+          "2009Q1": "2009Q1",
+          "2009Q2": "2009Q2",
+          "2009Q3": "2009Q3",
+          "2009Q4": "2009Q4",
+          "2010Q1": "2010Q1",
+          "2010Q2": "2010Q2",
+          "2010Q3": "2010Q3",
+          "2010Q4": "2010Q4",
+          "2011Q1": "2011Q1",
+          "2011Q2": "2011Q2",
+          "2011Q3": "2011Q3",
+          "2011Q4": "2011Q4",
+          "2012Q1": "2012Q1",
+          "2012Q2": "2012Q2",
+          "2012Q3": "2012Q3",
+          "2012Q4": "2012Q4",
+          "2013Q1": "2013Q1",
+          "2013Q2": "2013Q2",
+          "2013Q3": "2013Q3",
+          "2013Q4": "2013Q4",
+          "2014Q1": "2014Q1",
+          "2014Q2": "2014Q2",
+          "2014Q3": "2014Q3",
+          "2014Q4": "2014Q4",
+          "2015Q1": "2015Q1",
+          "2015Q2": "2015Q2",
+          "2015Q3": "2015Q3",
+          "2015Q4": "2015Q4",
+          "2016Q1": "2016Q1",
+          "2016Q2": "2016Q2",
+          "2016Q3": "2016Q3",
+          "2016Q4": "2016Q4",
+          "2017Q1": "2017Q1",
+          "2017Q2": "2017Q2",
+          "2017Q3": "2017Q3",
+          "2017Q4": "2017Q4",
+          "2018Q1": "2018Q1",
+          "2018Q2": "2018Q2",
+          "2018Q3": "2018Q3",
+          "2018Q4": "2018Q4",
+          "2019Q1": "2019Q1",
+          "2019Q2": "2019Q2",
+          "2019Q3": "2019Q3",
+          "2019Q4": "2019Q4",
+          "2020Q1": "2020Q1",
+          "2020Q2": "2020Q2",
+          "2020Q3": "2020Q3",
+          "2020Q4": "2020Q4",
+          "2021Q1": "2021Q1",
+          "2021Q2": "2021Q2",
+          "2021Q3": "2021Q3",
+          "2021Q4": "2021Q4",
+          "2022Q1": "2022Q1",
+          "2022Q2": "2022Q2",
+          "2022Q3": "2022Q3",
+          "2022Q4": "2022Q4",
+          "2023Q1": "2023Q1",
+          "2023Q2": "2023Q2",
+          "2023Q3": "2023Q3",
+          "2023Q4": "2023Q4",
+          "2024Q1": "2024Q1",
+          "2024Q2": "2024Q2",
+          "2024Q3": "2024Q3",
+          "2024Q4": "2024Q4",
+          "2025Q1": "2025Q1",
+          "2025Q2": "2025Q2",
+          "2025Q3": "2025Q3",
+          "2025Q4": "2025Q4",
+          "2026Q1": "2026Q1"
+        }
+      },
+      {
+        "code": "Indices",
+        "name": "Indices",
+        "values": {
+          "NICEI_output": "Composite Economic",
+          "Private_Output": "Private sector",
+          "Public_Output": "Public sector",
+          "IOS_Output": "Services",
+          "IOP_Output": "Production",
+          "IOC_Output": "Construction (Private Sector)"
+        }
+      }
+    ]
+  },
+  "NIETS02": {
+    "label": "NIETS: Trade in goods and services",
+    "updated": "2026-05-12",
+    "subject": 128,
+    "product": "TTRADE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "BESESVALUE": "Value of trade",
+          "LOWER_CONF_INTERVAL": "95% Confidence Interval - Lower",
+          "UPPER_CONF_INTERVAL": "95% Confidence Interval - Upper",
+          "CV": "Coefficient of variation",
+          "BESESCOUNT": "Number of businesses"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "FLOW",
+        "name": "Flow",
+        "values": {
+          "SALES": "Sales",
+          "PURCH": "Purchases"
+        }
+      },
+      {
+        "code": "TRANSACTION",
+        "name": "Transaction",
+        "values": {
+          "GOODS": "Goods",
+          "SERVICES": "Services",
+          "ALL": "All Transactions"
+        }
+      },
+      {
+        "code": "BROADDEST",
+        "name": "Trade partner",
+        "values": {
+          "ALL": "All countries",
+          "NI": "Northern Ireland",
+          "GB": "Great Britain",
+          "IE": "Ireland",
+          "REU": "Rest of the Europe Union (EU excluding Ireland)",
+          "ROW": "Rest of the World (all countries outside the UK and EU)",
+          "EXTERN": "External Sales/Purchases (outside NI)",
+          "EXPORT": "Exports (outside UK)",
+          "IMPORT": "Imports (outside UK)"
+        }
+      },
+      {
+        "code": "RUSECTION",
+        "name": "Industry sector",
+        "values": {
+          "ALL": "All industries",
+          "A": "(A) Agriculture, Forestry And Fishing",
+          "B": "(B) Mining And Quarrying",
+          "C": "(C) Manufacturing",
+          "D": "(D) Electricity, Gas, Steam And Air Conditioning Supply",
+          "E": "(E) Water Supply; Sewerage, Waste Management And Remediation Activities",
+          "F": "(F) Construction",
+          "G": "(G) Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+          "H": "(H) Transportation And Storage",
+          "I": "(I) Accommodation And Food Service Activities",
+          "J": "(J) Information And Communication",
+          "L": "(L) Real Estate Activities",
+          "M": "(M) Professional, Scientific And Technical Activities",
+          "N": "(N) Administrative And Support Service Activities",
+          "P": "(P) Education",
+          "Q": "(Q) Human Health And Social Work Activities",
+          "R": "(R) Arts, Entertainment And Recreation",
+          "S": "(S) Other Service Activities"
+        }
+      }
+    ]
+  },
+  "ABIRU": {
+    "label": "NI Annual Business Inquiry Reporting Unit Results",
+    "updated": "2025-12-17",
+    "subject": 124,
+    "product": "BBA",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistics",
+        "values": {
+          "ABITOThou": "Turnover",
+          "ABIPThou": "Purchases",
+          "ABIGVAThou": "aGVA"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021"
+        }
+      },
+      {
+        "code": "SIC1",
+        "name": "Standard Industrial Classification Section",
+        "values": {
+          "SICAtoS": "Total",
+          "SICA": "Agriculture, forestry and fishing",
+          "SICB": "Mining and quarrying",
+          "SICC": "Manufacturing",
+          "SICD": "Electricity, gas, steam and air conditioning supply",
+          "SICE": "Water supply, sewerage, waste management and remediation activities",
+          "SICF": "Construction",
+          "SICG": "Wholesale and retail trade; repair of motor vehicles and motor cycles",
+          "SICH": "Transport and storage",
+          "SICI": "Accommodation and food service activities",
+          "SICJ": "Information and communication",
+          "SICL": "Real estate activities",
+          "SICM": "Professional, scientific and technical activities",
+          "SICN": "Administrative and support service activities",
+          "SICPtoS": "Other Services"
+        }
+      }
+    ]
+  },
+  "TIFF": {
+    "label": "Total Income from Farming of Northern Ireland Agriculture",
+    "updated": "2025-09-17",
+    "subject": 154,
+    "product": "AAE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "TIFF": "Total Income from Farming"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1981": "1981",
+          "1982": "1982",
+          "1983": "1983",
+          "1984": "1984",
+          "1985": "1985",
+          "1986": "1986",
+          "1987": "1987",
+          "1988": "1988",
+          "1989": "1989",
+          "1990": "1990",
+          "1991": "1991",
+          "1992": "1992",
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "GVA": {
+    "label": "Gross Value Added of Northern Ireland Agriculture",
+    "updated": "2025-09-17",
+    "subject": 154,
+    "product": "AAE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "GVA": "Gross value added of the agriculture sector"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1981": "1981",
+          "1982": "1982",
+          "1983": "1983",
+          "1984": "1984",
+          "1985": "1985",
+          "1986": "1986",
+          "1987": "1987",
+          "1988": "1988",
+          "1989": "1989",
+          "1990": "1990",
+          "1991": "1991",
+          "1992": "1992",
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "FADPSS": {
+    "label": "Northern Ireland food and drinks processing statistics",
+    "updated": "2025-04-10",
+    "subject": 154,
+    "product": "AFDP",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "Sales": "Sales"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1989": "1989",
+          "1990": "1990",
+          "1991": "1991",
+          "1992": "1992",
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "DES",
+        "name": "Destination",
+        "values": {
+          "1": "Northern Ireland",
+          "2": "Great Britain",
+          "3": "Ireland",
+          "4": "Other EU",
+          "5": "Other Countries",
+          "6": "Intervention",
+          "All": "Total Sales"
+        }
+      }
+    ]
+  },
+  "FADPS": {
+    "label": "Northern Ireland food and drinks processing statistics",
+    "updated": "2025-04-10",
+    "subject": 154,
+    "product": "AFDP",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "ValAdd": "Value Added",
+          "Employ": "Employment",
+          "GrTurn": "Gross Turnover",
+          "ExtSales": "External Sales",
+          "ExpSales": "Export Sales"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1989": "1989",
+          "1990": "1990",
+          "1991": "1991",
+          "1992": "1992",
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "SECT",
+        "name": "Sector",
+        "values": {
+          "ABP": "Animal By-Products",
+          "BAK": "Bakeries",
+          "BSHM": "Beef & Sheepmeat",
+          "DRI": "Drinks",
+          "EGG": "Eggs",
+          "FIS": "Fish",
+          "FVT": "Fruit & Vegetables",
+          "MMIP": "Milk & Milk Products",
+          "PIG": "Pigmeat",
+          "POU": "Poultrymeat",
+          "ALL": "All Products"
+        }
+      }
+    ]
+  },
+  "TFP": {
+    "label": "Total Factor Productivity of Northern Ireland Agriculture",
+    "updated": "2025-09-17",
+    "subject": 154,
+    "product": "AAE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "TFP": "Total factor productivity of the agriculture sector"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "1981": "1981",
+          "1982": "1982",
+          "1983": "1983",
+          "1984": "1984",
+          "1985": "1985",
+          "1986": "1986",
+          "1987": "1987",
+          "1988": "1988",
+          "1989": "1989",
+          "1990": "1990",
+          "1991": "1991",
+          "1992": "1992",
+          "1993": "1993",
+          "1994": "1994",
+          "1995": "1995",
+          "1996": "1996",
+          "1997": "1997",
+          "1998": "1998",
+          "1999": "1999",
+          "2000": "2000",
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "EPLA": {
+    "label": "External purchases of live animals to Northern Ireland by origin",
+    "updated": "2025-09-17",
+    "subject": 154,
+    "product": "AAE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "EPLA": "External purchases of live animals to Northern Ireland"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "OOP",
+        "name": "Origin of Purchase",
+        "values": {
+          "GB": "Great Britain",
+          "ROI": "Republic of Ireland",
+          "OtherEU": "Other European Union",
+          "ROW": "Rest of World",
+          "External": "Purchases outside Northern Ireland",
+          "Imports": "Purchases outside UK"
+        }
+      }
+    ]
+  },
+  "ESLA": {
+    "label": "External sales of live animals from Northern Ireland by destination",
+    "updated": "2025-09-17",
+    "subject": 154,
+    "product": "AAE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "ESLA": "External sales of live animals from Northern Ireland"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "DOS",
+        "name": "Destination of Sale",
+        "values": {
+          "GB": "Great Britain",
+          "ROI": "Republic of Ireland",
+          "OtherEU": "Other European Union",
+          "ROW": "Rest of World",
+          "External": "Sales outside Northern Ireland",
+          "Exports": "Sales outside UK"
+        }
+      }
+    ]
+  },
+  "RMSROI": {
+    "label": "Value of raw milk sales to Republic of Ireland",
+    "updated": "2025-09-16",
+    "subject": 154,
+    "product": "AAE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "RMS": "Value of raw milk sales to Republic of Ireland"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "ATSL": {
+    "label": "Total annual tonnage of species landed into Northern Ireland ports",
+    "updated": "2024-05-17",
+    "subject": 154,
+    "product": "AFISH",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "AL": "Albacore",
+          "A": "Anchovy",
+          "AS": "Angel Shark",
+          "AH": "Argentine Hake (Sw Atlantic)",
+          "B": "Bass",
+          "BR": "Blonde Ray",
+          "BFT": "Blue Fin Tuna",
+          "BW": "Blue Whiting",
+          "BF": "Boarfish (Capros Aper)",
+          "BRI": "Brill",
+          "BS": "Brown Shrimps",
+          "CAT": "Catfish",
+          "C": "Cod",
+          "CD": "Common dolphinfish",
+          "CP": "Common Prawns",
+          "CS": "Common Skate(Blue/Grey)",
+          "CE": "Conger Eels",
+          "CV": "Crabs - Velvet (Swim)",
+          "CMS": "Crabs (C.P.Mixed Sexes)",
+          "CR": "Cuckoo Ray",
+          "CUT": "Cuttlefish",
+          "D": "Dogfish (Scyliorhinidae)",
+          "E": "Eels",
+          "EFS": "European Flying Squid",
+          "FF": "Flounder or Flukes",
+          "GFB": "Greater Forked Beard",
+          "GC": "Green Crab",
+          "GL": "Gurnard and Latchet",
+          "GG": "Gurnards - Grey",
+          "GR": "Gurnards - Red",
+          "HAD": "Haddock",
+          "HAK": "Hake",
+          "HAL": "Halibut",
+          "HER": "Herring",
+          "HM": "Horse Mackerel",
+          "JD": "John Dory",
+          "LS": "Lemon Sole",
+          "LSD": "Lesser Spotted Dog",
+          "L": "Ling",
+          "LOB": "Lobsters",
+          "LU": "Lumpfish",
+          "MAC": "Mackerel",
+          "MER": "Marbled Electric Ray",
+          "M": "Megrim",
+          "MSO": "Mixed Squid and Octopi",
+          "MA": "Monks or Anglers",
+          "MO": "Mullet - Other",
+          "MU": "Mussels",
+          "NL": "Nephrops (Norway Lobster)",
+          "O": "Octopus",
+          "PIL": "Pilchards",
+          "P": "Plaice",
+          "POL": "Pollack",
+          "PB": "Pouting (Bib)",
+          "QS": "Queen Scallops",
+          "RC": "Razor Clam",
+          "RF": "Redfishes",
+          "RM": "Red Mullet",
+          "R": "Roes",
+          "S": "Saithe",
+          "SR": "Sandy Ray",
+          "SCAL": "Scallops",
+          "SB": "Sea Breams",
+          "SU": "Sea Urchin",
+          "SKR": "Skates and Rays",
+          "SHP": "Shrimps - Pink (Northern prawn)",
+          "SOL": "Sole",
+          "SC": "Spider Crabs",
+          "SPR": "Spotted Ray",
+          "SP": "Sprats",
+          "SPU": "Spurdog",
+          "SQ": "Squid",
+          "SM": "SURMULLET",
+          "TOR": "Torsk (Tusk)",
+          "TBR": "Thornback Ray",
+          "T": "Turbot",
+          "UD": "Unidentified Dogfish",
+          "UR": "Undulate Ray",
+          "W": "Whelks",
+          "WH": "Whiting",
+          "WIT": "Witch",
+          "WR": "Wrasses"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "FDIE": {
+    "label": "Foreign Direct Investment Earnings",
+    "updated": "2024-04-25",
+    "subject": 128,
+    "product": "TINV",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "FDIE": "Net earnings"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021"
+        }
+      },
+      {
+        "code": "REGIONDIR",
+        "name": "Region and direction of investment",
+        "values": {
+          "1": "United Kingdom: Inward",
+          "2": "United Kingdom: Outward",
+          "3": "Wales: Inward",
+          "4": "Wales: Outward",
+          "5": "Scotland: Inward",
+          "6": "Scotland: Outward",
+          "7": "Northern Ireland: Inward",
+          "8": "Northern Ireland: Outward"
+        }
+      }
+    ]
+  },
+  "PORT03": {
+    "label": "Tonnage and units handled by NI major ports",
+    "updated": "2023-09-27",
+    "subject": 125,
+    "product": "EOAEO",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "PORTTON": "Tonnage",
+          "PORTTOTUNITS": "Total Units"
+        }
+      },
+      {
+        "code": "TLIST(Q1)",
+        "name": "Quarter",
+        "values": {
+          "2018Q1": "2018Q1",
+          "2018Q2": "2018Q2",
+          "2018Q3": "2018Q3",
+          "2018Q4": "2018Q4",
+          "2019Q1": "2019Q1",
+          "2019Q2": "2019Q2",
+          "2019Q3": "2019Q3",
+          "2019Q4": "2019Q4",
+          "2020Q1": "2020Q1",
+          "2020Q2": "2020Q2",
+          "2020Q3": "2020Q3",
+          "2020Q4": "2020Q4",
+          "2021Q1": "2021Q1",
+          "2021Q2": "2021Q2",
+          "2021Q3": "2021Q3",
+          "2021Q4": "2021Q4",
+          "2022Q1": "2022Q1",
+          "2022Q2": "2022Q2",
+          "2022Q3": "2022Q3",
+          "2022Q4": "2022Q4",
+          "2023Q1": "2023Q1",
+          "2023Q2": "2023Q2"
+        }
+      },
+      {
+        "code": "MajorPort",
+        "name": "NI Major Port",
+        "values": {
+          "MajorPort1": "Belfast",
+          "MajorPort2": "Kilroot Power Station Jetty",
+          "MajorPort3": "Larne",
+          "MajorPort4": "Londonderry",
+          "MajorPort5": "Warrenpoint"
+        }
+      },
+      {
+        "code": "Direction",
+        "name": "Direction of flow",
+        "values": {
+          "Direction1": "Inwards",
+          "Direction2": "Outwards"
+        }
+      },
+      {
+        "code": "CargoGroupQ",
+        "name": "Cargo Group",
+        "values": {
+          "CargoG1": "Other General Cargo",
+          "CargoG2": "Dry Bulk",
+          "CargoG3": "Liquid Bulk",
+          "CargoG4": "Lo-Lo",
+          "CargoG5": "Ro-Ro Freight",
+          "CargoG6": "Ro-Ro Non-Freight",
+          "All": "All"
+        }
+      }
+    ]
+  },
+  "BRESHEADLGD": {
+    "label": "Employee Jobs",
+    "updated": "2026-01-19",
+    "subject": 161,
+    "product": "JRVJ",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "EJOBS": "Employee Jobs"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      },
+      {
+        "code": "GENWP",
+        "name": "Gender and working pattern",
+        "values": {
+          "FFT": "Female full-time",
+          "FPT": "Female part-time",
+          "MFT": "Male full-time",
+          "MPT": "Male part-time",
+          "All": "All"
+        }
+      },
+      {
+        "code": "HEADLINE",
+        "name": "Industry headline",
+        "values": {
+          "Construction": "Construction",
+          "Manufacturing": "Manufacturing",
+          "Services": "Services",
+          "Other": "Other",
+          "All": "All"
+        }
+      }
+    ]
+  },
+  "BUSINESSBANDLGD": {
+    "label": "Number of businesses: activity, size and location",
+    "updated": "2026-08-24",
+    "subject": 124,
+    "product": "BNB",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "BCOUNTS": "Number of Businesses"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      },
+      {
+        "code": "BIG",
+        "name": "Broad Industry Group",
+        "values": {
+          "1": "Agriculture, Forestry & Fishing",
+          "3": "Production",
+          "4": "Construction",
+          "5": "Motor Trades",
+          "6": "Wholesale",
+          "7": "Retail",
+          "8": "Transport & Storage (inc Postal)",
+          "9": "Accommodation & Food Services",
+          "10": "Information & Communication",
+          "11": "Finance & Insurance",
+          "12": "Property",
+          "13": "Professional, Scientific & Technical",
+          "14": "Business Administration and Support Services",
+          "15": "Public Administration and Defence",
+          "16": "Education",
+          "17": "Health",
+          "18": "Arts, Entertainment, Recreation and Other Services",
+          "All": "All Industries"
+        }
+      },
+      {
+        "code": "EMPBAND",
+        "name": "Employee Size Band",
+        "values": {
+          "E1": "0",
+          "E2": "1 to 9",
+          "E3": "10 to 49",
+          "E4": "50 to 249",
+          "E5": "250+",
+          "All": "All"
+        }
+      },
+      {
+        "code": "TOBAND",
+        "name": "Turnover Size Band (£ '000)",
+        "values": {
+          "T1": "0 to 99",
+          "T2": "100 to 499",
+          "T3": "500 to 999",
+          "T4": "1000 to 4999",
+          "T5": "5000+",
+          "All": "All"
+        }
+      }
+    ]
+  },
+  "BUSBIRTHLGD": {
+    "label": "Business births",
+    "updated": "2026-05-12",
+    "subject": 124,
+    "product": "BNB",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "BBIRTHCOUNTS": "Number of business births",
+          "BBIRTHRATES": "Business birth rate"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "BUSDEATHLGD": {
+    "label": "Business deaths",
+    "updated": "2026-05-12",
+    "subject": 124,
+    "product": "BNB",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "BDEATHCOUNTS": "Number of business deaths",
+          "BDEATHRATES": "Business death rate"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "INDCOASTQNI": {
+    "label": "Indicator - Coastal water condition",
+    "updated": "2026-06-12",
+    "subject": 106,
+    "product": "CWC",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDCOASTQ": "Number of coastal water bodies in good ecological status"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "INDRIVERQNI": {
+    "label": "Indicator - River water quality",
+    "updated": "2026-06-12",
+    "subject": 106,
+    "product": "RWQ",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDRIVERQ": "Levels of nutrients in our rivers as measured by soluble reactive phosphorus (mg/l)"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010",
+          "2011": "2011",
+          "2012": "2012",
+          "2013": "2013",
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "INDCONDSTENI": {
+    "label": "Indicator - Condition of protected sites",
+    "updated": "2026-06-12",
+    "subject": 106,
+    "product": "CPS",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDCONDSTE": "Percentage of features within protected sites in favourable condition"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Financial year",
+        "values": {
+          "2016/17": "2016/17",
+          "2017/18": "2017/18",
+          "2018/19": "2018/19",
+          "2019/20": "2019/20",
+          "2020/21": "2020/21",
+          "2021/22": "2021/22",
+          "2022/23": "2022/23",
+          "2023/24": "2023/24",
+          "2024/25": "2024/25",
+          "2025/26": "2025/26"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "CHSCONCERNLGD": {
+    "label": "Continuous Household Survey: Concern about the environment",
+    "updated": "2026-08-19",
+    "subject": 155,
+    "product": "EECPA",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "CONCERNENVI": "Households concerned for Environment",
+          "NOTCONCERNENVI": "Households not concerned for Environment"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Financial Year",
+        "values": {
+          "2021/22": "2021/22",
+          "2022/23": "2022/23",
+          "2023/24": "2023/24",
+          "2024/25": "2024/25",
+          "2025/26": "2025/26"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "WASTELGD": {
+    "label": "Northern Ireland Local Authority Collected Waste Statistics",
+    "updated": "2026-01-30",
+    "subject": 155,
+    "product": "EECWST",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "LACMWR": "Local authority collected municipal waste recycling rate",
+          "LACMWL": "Local authority collected municipal waste landfill rate",
+          "LACMWER": "Local authority collected municipal waste energy recovery rate",
+          "HHWREC": "Household waste recycling rate",
+          "HHWLAF": "Household waste landfill rate"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Financial Year",
+        "values": {
+          "2004/05": "2004/05",
+          "2005/06": "2005/06",
+          "2006/07": "2006/07",
+          "2007/08": "2007/08",
+          "2008/09": "2008/09",
+          "2009/10": "2009/10",
+          "2010/11": "2010/11",
+          "2011/12": "2011/12",
+          "2012/13": "2012/13",
+          "2013/14": "2013/14",
+          "2014/15": "2014/15",
+          "2015/16": "2015/16",
+          "2016/17": "2016/17",
+          "2017/18": "2017/18",
+          "2018/19": "2018/19",
+          "2019/20": "2019/20",
+          "2020/21": "2020/21",
+          "2021/22": "2021/22",
+          "2022/23": "2022/23",
+          "2023/24": "2023/24",
+          "2024/25": "2024/25"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "LELGD": {
+    "label": "Life expectancy at birth",
+    "updated": "2026-04-30",
+    "subject": 8,
+    "product": "HILEGH",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "LEbirth": "Life expectancy at birth"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Grouped Year",
+        "values": {
+          "2008-10": "2008-10",
+          "2009-11": "2009-11",
+          "2010-12": "2010-12",
+          "2011-13": "2011-13",
+          "2012-14": "2012-14",
+          "2013-15": "2013-15",
+          "2014-16": "2014-16",
+          "2015-17": "2015-17",
+          "2016-18": "2016-18",
+          "2017-19": "2017-19",
+          "2018-20": "2018-20",
+          "2019-21": "2019-21",
+          "2020-22": "2020-22",
+          "2021-23": "2021-23",
+          "2022-24": "2022-24"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "NI"
+        }
+      },
+      {
+        "code": "SEX",
+        "name": "Sex",
+        "values": {
+          "1": "Females",
+          "2": "Males"
+        }
+      }
+    ]
+  },
+  "PRNI01": {
+    "label": "Poverty rates",
+    "updated": "2026-07-01",
+    "subject": 150,
+    "product": "DPP",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDRELPOV": "Individual relative poverty",
+          "INDABSPOV": "Individual absolute poverty",
+          "CHRELPOV": "Children relative poverty",
+          "CHABSPOV": "Children absolute poverty"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Financial year",
+        "values": {
+          "2021/22": "2021/22",
+          "2022/23": "2022/23",
+          "2023/24": "2023/24",
+          "2024/25": "2024/25"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Northern Ireland",
+        "values": {
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  },
+  "DESLSALGD": {
+    "label": "School Leavers Survey - attainment",
+    "updated": "2026-06-03",
+    "subject": 137,
+    "product": "SLQUAL",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "NumSL": "Number of school leavers",
+          "PercSL": "Percentage of school leavers"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Academic year",
+        "values": {
+          "2012/13": "2012/13",
+          "2013/14": "2013/14",
+          "2014/15": "2014/15",
+          "2015/16": "2015/16",
+          "2016/17": "2016/17",
+          "2017/18": "2017/18",
+          "2018/19": "2018/19",
+          "2019/20": "2019/20",
+          "2020/21": "2020/21",
+          "2021/22": "2021/22",
+          "2022/23": "2022/23",
+          "2023/24": "2023/24",
+          "2024/25": "2024/25"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down",
+          "N92000002": "Northern Ireland"
+        }
+      },
+      {
+        "code": "ATTAIN",
+        "name": "Attainment",
+        "values": {
+          "ThreealevAtoC": "At least 3 A-levels at grades A*-C (incl. equivalent qualifications)",
+          "ThreeALevels": "At least 3 A-levels at grades A*-E (incl. equivalent qualifications)",
+          "TwoALevels": "At least 2 A-levels at grades A*-E (incl. equivalent qualifications)",
+          "fivegcseatoc": "At least 5 GCSEs at grades A*-C (incl. equivalent qualifications)",
+          "fivegcseatocincengmath": "At least 5 GCSEs at grades A*-C (incl. equivalent qualifications) including GCSE English and maths",
+          "SchoolLeavers": "Total leavers"
+        }
+      },
+      {
+        "code": "FSME",
+        "name": "Free school meal entitlement",
+        "values": {
+          "1": "Free school meal entitled",
+          "2": "Not free school meal entitled",
+          "All": "All persons"
+        }
+      }
+    ]
+  },
+  "LIFESATEQ": {
+    "label": "Life satisfaction",
+    "updated": "2026-02-27",
+    "subject": 152,
+    "product": "IWLS",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "INDLIFESAT": "Average life satisfaction score for people aged 16 and over",
+          "LCI": "95% confidence interval - lower",
+          "UCI": "95% confidence interval - upper"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Financial year",
+        "values": {
+          "2014/15": "2014/15",
+          "2015/16": "2015/16",
+          "2016/17": "2016/17",
+          "2017/18": "2017/18",
+          "2018/19": "2018/19",
+          "2019/20": "2019/20",
+          "2020/21": "2020/21",
+          "2021/22": "2021/22",
+          "2022/23": "2022/23",
+          "2023/24": "2023/24",
+          "2024/25": "2024/25"
+        }
+      },
+      {
+        "code": "EQGRP",
+        "name": "Equality group",
+        "values": {
+          "EQ102": "Age - 16-24",
+          "EQ111": "Age - 25-34",
+          "EQ108": "Age - 35-49",
+          "EQ109": "Age - 50-64",
+          "EQ105": "Age - 65-74",
+          "EQ106": "Age - 75+",
+          "EQ201": "Sex - Female",
+          "EQ202": "Sex - Male",
+          "EQ301": "Marital status - Single",
+          "EQ302": "Marital status - Married/Civil partnership",
+          "EQ303": "Marital status - Separated",
+          "EQ304": "Marital status - Divorced",
+          "EQ305": "Marital status - Widowed",
+          "EQ401": "Disability - Disabled",
+          "EQ402": "Disability - Not Disabled",
+          "EQ501": "Religion - Catholic",
+          "EQ507": "Religion - Protestant and other Christian",
+          "EQ505": "Religion - Other/no religion",
+          "EQ601": "Sexual orientation- Straight or heterosexual",
+          "EQ602": "Sexual orientation - Gay/lesbian, bisexual or other",
+          "EQ701": "Dependants - Has dependants",
+          "EQ702": "Dependants - Does not have dependants",
+          "EQ1001": "Ethnic group - White",
+          "EQ1002": "Ethnic group - Other",
+          "N92000002": "Northern Ireland"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head></head>
+<body style="display:none;" class="d-flex flex-column min-vh-100">
+
+<div id="cookie-banner"></div>
+
+<banner id="banner"></banner>
+  <!-- Top Navbar -->
+<nav id ="nav"></nav>
+
+<!-- Main Content -->
+<main class="flex-grow-1">
+<div class="w-100 text-center current-page-strapline py-2">Discover what the latest data tells us about Northern Ireland’s environment</div>
+
+<div id="content" class="container-fluid">
+        
+    <div class = "py-2">
+        <!-- First row - cards -->
+        <div class="row text-center">
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 navy-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>Greenhouse gas emissions were
+                            <br><span id="card-1-value" class="display-6"></span><span class="unit">ktCO2e</span>
+                            <br>in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>River nutrient levels were
+                            <br><span id="card-2-value" class="display-6"></span><span class="unit">mg/l</span>
+                            <br>of soluble reactive phosphorus in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>In <span class="latest-year"></span>, there were
+                            <br><span id="card-3-value" class="display-6"></span>
+                            <br>coastal water bodies in good ecological status
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>Within protected sites,
+                            <br><span id="card-4-value" class="display-6"></span><span class="unit">%</span>
+                            <br>of features were in favourable condition in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>The household waste recycling rate was
+                            <br><span id="card-5-value" class="display-6"></span><span class="unit">%</span>
+                            <br>in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>Of households,
+                            <br><span id="card-6-value" class="display-6"></span><span class="unit">%</span>
+                            <br>were concerned about the environment in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Second row - tables and charts -->
+         <!-- Chart cards start -->
+        <div class="row">
+            <div class="col-12 col-xl-6 py-2">
+                <div class="card h-100">
+                    <div id="chart-1-capture">
+                        <div class="card-header">
+                            Greenhouse gas emissions,  <span class="first-year"></span> to <span class="latest-year"></span>
+                        </div>
+                        <div class="card-body d-flex flex-column justify-content-center">
+                            <canvas id="line-canvas-1" class="chart-canvas"></canvas>
+                        </div>
+                    </div>
+                    <div class="card-footer"></div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-6 py-2">
+                <div class="card h-100">
+                    <div id="chart-2-capture">
+                    <div class="card-header"></div>
+                    <div class="card-body d-flex flex-column justify-content-center"></div>
+                    </div>
+                    <div class="card-footer"></div>
+                </div>
+            </div>
+        </div>
+        <!-- Chart cards end -->
+
+        <!-- Third row - Definitions -->
+        <div id="info-boxes"></div>
+        
+    </div>
+        
+    
+</div>
+
+</main>
+
+<footer id = "footer"></footer>
+
+<script type = "module" src="src/environment.js"></script>
+
+
+</body>
+</html>

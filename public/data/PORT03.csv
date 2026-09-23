@@ -1,0 +1,441 @@
+"Statistic","Quarter","NI Major Port","Direction of flow","Other General Cargo","Dry Bulk","Liquid Bulk","Lo-Lo","Ro-Ro Freight","Ro-Ro Non-Freight","All"
+"Tonnage","2018Q1","Belfast","Inwards",101.6633488,1112.526386,636.4308647,241.9226862,892.0919463,17.293412,3001.928643
+"Tonnage","2018Q1","Belfast","Outwards",48.04777491,761.9100921,0,203.0736867,895.9589832,0.237958397,1909.228495
+"Tonnage","2018Q1","Kilroot Power Station Jetty","Inwards",0,192.109,6.519835102,0,0,0,198.6288351
+"Tonnage","2018Q1","Kilroot Power Station Jetty","Outwards",0,3.591308837,0,0,0,0,3.591308837
+"Tonnage","2018Q1","Larne","Inwards",0,3.110158708,0.941393139,0,382.2333116,0.299,386.5838635
+"Tonnage","2018Q1","Larne","Outwards",5.706888647,0,0,0,318.542,0.002,324.2508886
+"Tonnage","2018Q1","Londonderry","Inwards",6.817274877,288.8348444,148.6345411,0,0,0,444.2866603
+"Tonnage","2018Q1","Londonderry","Outwards",0,33.82369126,0,0,0,0,33.82369126
+"Tonnage","2018Q1","Warrenpoint","Inwards",46.93498982,106.5860325,0,12.39348732,298.0859913,4.632746721,468.6332476
+"Tonnage","2018Q1","Warrenpoint","Outwards",10.7320118,70.50625852,0,30.47534133,328.0834605,2.894796252,442.6918684
+"Tonnage","2018Q2","Belfast","Inwards",82.45449576,1092.756172,525.5127619,241.3785183,950.1075881,14.66430594,2906.873842
+"Tonnage","2018Q2","Belfast","Outwards",31.56594465,741.7901953,0,193.5483501,981.6117831,0.289120926,1948.805394
+"Tonnage","2018Q2","Kilroot Power Station Jetty","Inwards",0,116.447,16.59967222,0,0,0,133.0466722
+"Tonnage","2018Q2","Kilroot Power Station Jetty","Outwards",0,16.17139067,0,0,0,0,16.17139067
+"Tonnage","2018Q2","Larne","Inwards",0.859,7.479454366,1.105199492,0,381.4579385,0.314,391.2155924
+"Tonnage","2018Q2","Larne","Outwards",4.070633858,0,0,0,338.254,0.001,342.3256339
+"Tonnage","2018Q2","Londonderry","Inwards",19.2966086,336.7060553,93.5117504,0,0,0,449.5144143
+"Tonnage","2018Q2","Londonderry","Outwards",0,17.04927429,0,0,0,0,17.04927429
+"Tonnage","2018Q2","Warrenpoint","Inwards",51.08834455,81.66150348,0,15.1230889,309.3619179,5.63098295,462.8658378
+"Tonnage","2018Q2","Warrenpoint","Outwards",18.86672623,69.9527683,0,45.87864109,346.9862451,3.348700305,485.0330811
+"Tonnage","2018Q3","Belfast","Inwards",104.6695013,843.965938,485.3247659,241.899827,927.2250356,10.43260587,2613.517674
+"Tonnage","2018Q3","Belfast","Outwards",6.10800738,658.3287439,0,178.9353906,908.6626629,0.332748237,1752.367553
+"Tonnage","2018Q3","Kilroot Power Station Jetty","Inwards",0,77.288,5.92266702,0,0,0,83.21066702
+"Tonnage","2018Q3","Kilroot Power Station Jetty","Outwards",0,3.494300495,0,0,0,0,3.494300495
+"Tonnage","2018Q3","Larne","Inwards",0,6.824260997,0.967049555,0,377.686914,0.259,385.7372246
+"Tonnage","2018Q3","Larne","Outwards",6.034939729,0,0,0,336.661,0.007,342.7029397
+"Tonnage","2018Q3","Londonderry","Inwards",13.14376812,259.8458915,153.0485065,0,0,0,426.0381661
+"Tonnage","2018Q3","Londonderry","Outwards",0.627,24.85976579,0,0,0,0,25.48676579
+"Tonnage","2018Q3","Warrenpoint","Inwards",47.2629314,90.69021446,0,15.44473651,309.0390004,5.449660157,467.8865429
+"Tonnage","2018Q3","Warrenpoint","Outwards",9.127645015,69.36288536,0,21.16182475,207.3401284,1.687087256,308.6795708
+"Tonnage","2018Q4","Belfast","Inwards",93.27865416,1092.049505,664.2636076,234.4739685,948.3354299,10.3306762,3042.731841
+"Tonnage","2018Q4","Belfast","Outwards",4.424273063,711.2059687,0,192.8305727,854.4285708,0.26317244,1763.152558
+"Tonnage","2018Q4","Kilroot Power Station Jetty","Inwards",0,124.071,17.14482566,0,0,0,141.2158257
+"Tonnage","2018Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2018Q4","Larne","Inwards",0,3.92412593,0.869357814,0,391.0348358,0.325,396.1533196
+"Tonnage","2018Q4","Larne","Outwards",3.453537767,0,0,0,329.784,0.006,333.2435378
+"Tonnage","2018Q4","Londonderry","Inwards",23.7423484,265.0972089,142.5932021,0,0,0,431.4327594
+"Tonnage","2018Q4","Londonderry","Outwards",9.115,17.29826866,0,0,0,0,26.41326866
+"Tonnage","2018Q4","Warrenpoint","Inwards",69.27473423,107.8342496,0,19.49268727,228.2850904,4.486610172,429.3733716
+"Tonnage","2018Q4","Warrenpoint","Outwards",13.72961696,72.76108781,0,36.48419283,255.7151659,2.327416187,381.0174797
+"Tonnage","2019Q1","Belfast","Inwards",103.9944245,1046.777794,586.3003836,262.9476369,914.0547201,14.64436973,2928.719328
+"Tonnage","2019Q1","Belfast","Outwards",1.397869071,780.0928109,0,184.8614911,905.4127592,0.268013245,1872.032943
+"Tonnage","2019Q1","Kilroot Power Station Jetty","Inwards",0,120.1522615,13.68842353,0,0,0,133.840685
+"Tonnage","2019Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2019Q1","Larne","Inwards",0,0,1.601255576,0,382.7044254,0.278181012,384.5838619
+"Tonnage","2019Q1","Larne","Outwards",14.4588179,0,0,0,324.379926,0.0078,338.8465439
+"Tonnage","2019Q1","Londonderry","Inwards",6.129334836,308.3007916,156.370642,0,0,0,470.8007684
+"Tonnage","2019Q1","Londonderry","Outwards",11.78688087,15.97479004,0,0,0,0,27.7616709
+"Tonnage","2019Q1","Warrenpoint","Inwards",71.4545816,71.22851954,0,16.17840958,295.9862707,11.31781214,466.1655935
+"Tonnage","2019Q1","Warrenpoint","Outwards",15.77031773,63.56370186,0,40.14951888,293.6684802,3.76,416.9120187
+"Tonnage","2019Q2","Belfast","Inwards",80.67129778,855.3189763,514.1098126,235.6294341,943.9460827,13.75022505,2643.425829
+"Tonnage","2019Q2","Belfast","Outwards",12.83414883,678.2724073,0,189.4371884,979.0528659,0.287157048,1859.883768
+"Tonnage","2019Q2","Kilroot Power Station Jetty","Inwards",0,80.90717606,10.41814252,0,0,0,91.32531858
+"Tonnage","2019Q2","Kilroot Power Station Jetty","Outwards",0,3.510502218,0,0,0,0,3.510502218
+"Tonnage","2019Q2","Larne","Inwards",0,5.576206901,0.824616636,0,363.8788656,0.2247958,370.5044849
+"Tonnage","2019Q2","Larne","Outwards",11.27264137,4.531252747,0,0,309.5821935,8e-04,325.3868876
+"Tonnage","2019Q2","Londonderry","Inwards",25.09725928,332.8959964,166.3309767,0,0,0,524.3242323
+"Tonnage","2019Q2","Londonderry","Outwards",7.151119135,28.23745239,0,0,0,0,35.38857152
+"Tonnage","2019Q2","Warrenpoint","Inwards",69.354152,45.88647967,0,14.37879251,286.6777498,8.654187857,424.9513619
+"Tonnage","2019Q2","Warrenpoint","Outwards",7.798664404,55.67595572,0,66.85053025,310.9878731,0.765052469,442.078076
+"Tonnage","2019Q3","Belfast","Inwards",62.04919255,884.3416253,486.3922487,249.2491681,951.3491776,10.97077528,2644.352188
+"Tonnage","2019Q3","Belfast","Outwards",7.180211211,675.9395434,0,202.195812,960.1367238,0.248869442,1845.70116
+"Tonnage","2019Q3","Kilroot Power Station Jetty","Inwards",0,73.29215949,5.19966618,0,0,0,78.49182567
+"Tonnage","2019Q3","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2019Q3","Larne","Inwards",2.063,0,0.798628717,0,341.7815621,0.252008163,344.895199
+"Tonnage","2019Q3","Larne","Outwards",5.243576133,0,0,0,294.851312,8e-04,300.0956881
+"Tonnage","2019Q3","Londonderry","Inwards",7.294214238,208.6939157,152.4593345,0,0,0,368.4474644
+"Tonnage","2019Q3","Londonderry","Outwards",0,10.86506449,0,0,0,0,10.86506449
+"Tonnage","2019Q3","Warrenpoint","Inwards",52.22238503,63.34302802,0,13.57380999,285.6983139,0,414.8375369
+"Tonnage","2019Q3","Warrenpoint","Outwards",10.32268408,47.99472342,0,32.02869159,278.1673136,0,368.5134127
+"Tonnage","2019Q4","Belfast","Inwards",61.38108518,980.4076048,595.517555,226.9237609,955.0760195,10.07262994,2829.378655
+"Tonnage","2019Q4","Belfast","Outwards",2.029770891,775.4302384,0,205.1615085,911.1306511,0.260960265,1894.013129
+"Tonnage","2019Q4","Kilroot Power Station Jetty","Inwards",0,185.198403,5.052767773,0,0,0,190.2511708
+"Tonnage","2019Q4","Kilroot Power Station Jetty","Outwards",0,3.479497782,0,0,0,0,3.479497782
+"Tonnage","2019Q4","Larne","Inwards",0,5.642793099,1.077499071,0,391.709147,0.382015025,398.8114542
+"Tonnage","2019Q4","Larne","Outwards",5.807964599,3.104747253,0,0,294.8035685,0.0016,303.7178803
+"Tonnage","2019Q4","Londonderry","Inwards",6.764191647,323.5872964,120.4530468,0,0,0,450.8045348
+"Tonnage","2019Q4","Londonderry","Outwards",2.238,17.99069309,0,0,0,0,20.22869309
+"Tonnage","2019Q4","Warrenpoint","Inwards",53.78388137,61.27397277,0,13.72798792,271.4796656,6.148,406.4135077
+"Tonnage","2019Q4","Warrenpoint","Outwards",13.51033378,45.55861901,0,51.50825927,267.7993331,2.275947531,380.6524927
+"Tonnage","2020Q1","Belfast","Inwards",85.45761189,1090.325681,669.0407426,220.0859232,909.814,12.7010812,2987.42504
+"Tonnage","2020Q1","Belfast","Outwards",2.324388728,698.4814129,0,179.94367,1002.493,0.248748603,1883.49122
+"Tonnage","2020Q1","Kilroot Power Station Jetty","Inwards",0,78.27797225,5.624319695,0,0,0,83.90229194
+"Tonnage","2020Q1","Kilroot Power Station Jetty","Outwards",0,4.002780214,0,0,0,0,4.002780214
+"Tonnage","2020Q1","Larne","Inwards",0,4.088,1.357723195,0,387.023,0.293,392.7617232
+"Tonnage","2020Q1","Larne","Outwards",8.218765673,0,0,0,317.484,0.015333333,325.718099
+"Tonnage","2020Q1","Londonderry","Inwards",0,214.5880116,235.6973657,0,0,0,450.2853773
+"Tonnage","2020Q1","Londonderry","Outwards",7.180184647,30.00978576,0,0,0,0,37.18997041
+"Tonnage","2020Q1","Warrenpoint","Inwards",37.47911802,43.18736969,0,8.265386951,259.3843863,8.58889937,356.9051603
+"Tonnage","2020Q1","Warrenpoint","Outwards",18.97772007,49.7142117,0,44.99368774,228.7925376,1.113141994,343.5912991
+"Tonnage","2020Q2","Belfast","Inwards",51.87760311,899.897157,468.9862276,183.9806237,817.76,2.439591829,2424.941203
+"Tonnage","2020Q2","Belfast","Outwards",1.428356718,560.6773889,0,146.5636113,921.033,0.095050279,1629.797407
+"Tonnage","2020Q2","Kilroot Power Station Jetty","Inwards",0,96.60605575,0,0,0,0,96.60605575
+"Tonnage","2020Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2020Q2","Larne","Inwards",0,0,1.496107754,0,295.936,0.105,297.5371078
+"Tonnage","2020Q2","Larne","Outwards",2.60164007,0,0,0,223.039,0.006083333,225.6467234
+"Tonnage","2020Q2","Londonderry","Inwards",32.20841779,261.217814,124.9590265,0,0,0,418.3852582
+"Tonnage","2020Q2","Londonderry","Outwards",2.59173897,12.73282145,0,0,0,0,15.32456042
+"Tonnage","2020Q2","Warrenpoint","Inwards",35.16476111,35.9708603,1.465343463,3.635879546,228.6583677,2.912411345,307.8076234
+"Tonnage","2020Q2","Warrenpoint","Outwards",19.03071325,37.8722243,0,49.17929152,219.4512663,1.009268021,326.5427634
+"Tonnage","2020Q3","Belfast","Inwards",53.6741304,972.0923971,418.4622172,211.1882035,933.512,9.221237011,2598.150185
+"Tonnage","2020Q3","Belfast","Outwards",2.379725686,879.1416152,0,173.005575,977.993,0.233581006,2032.753497
+"Tonnage","2020Q3","Kilroot Power Station Jetty","Inwards",0,137.2400313,10.25068031,0,0,0,147.4907116
+"Tonnage","2020Q3","Kilroot Power Station Jetty","Outwards",0,3.464219786,0,0,0,0,3.464219786
+"Tonnage","2020Q3","Larne","Inwards",0,3.544,1.680151893,0,380.42,0.291,385.9351519
+"Tonnage","2020Q3","Larne","Outwards",0,0,0,0,333.972,0.007,333.979
+"Tonnage","2020Q3","Londonderry","Inwards",10.07454659,254.8032245,109.8297312,0,0,0,374.7075023
+"Tonnage","2020Q3","Londonderry","Outwards",0,46.80753754,0,0,0,0,46.80753754
+"Tonnage","2020Q3","Warrenpoint","Inwards",56.07352033,64.7920298,7.72381186,4.642667986,323.9449175,8.292319173,465.4692666
+"Tonnage","2020Q3","Warrenpoint","Outwards",13.64789446,60.34924933,0,43.44268933,396.3210121,1.006028172,514.7668734
+"Tonnage","2020Q4","Belfast","Inwards",63.39765461,1062.605765,585.6298126,251.5542497,1027.225,8.615089963,2999.027572
+"Tonnage","2020Q4","Belfast","Outwards",1.396528868,825.565583,0,204.5611436,991.032,0.146620112,2022.701876
+"Tonnage","2020Q4","Kilroot Power Station Jetty","Inwards",0,167.3589407,0,0,0,0,167.3589407
+"Tonnage","2020Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2020Q4","Larne","Inwards",0,3.544,1.073017158,0,421.836,0.292,426.7450172
+"Tonnage","2020Q4","Larne","Outwards",4.782594257,0,0,0,334.333,0.013583333,339.1291776
+"Tonnage","2020Q4","Londonderry","Inwards",24.54003562,186.9759499,163.0558766,0,0,0,374.5718622
+"Tonnage","2020Q4","Londonderry","Outwards",12.70107638,30.13385526,0,0,0,0,42.83493164
+"Tonnage","2020Q4","Warrenpoint","Inwards",73.81860054,76.35974021,11.21584468,9.013065516,318.7873285,5.929370112,495.1239496
+"Tonnage","2020Q4","Warrenpoint","Outwards",23.32867222,40.20931467,0,56.61133142,266.828184,1.916561813,388.8940641
+"Tonnage","2021Q1","Belfast","Inwards",84.54641396,1047.003607,573.267102,239.4920308,898.4341719,6.033303089,2848.776629
+"Tonnage","2021Q1","Belfast","Outwards",1.873335616,916.4868283,0,191.1570746,988.9000185,0.142374652,2098.559632
+"Tonnage","2021Q1","Kilroot Power Station Jetty","Inwards",0,26.77028394,16.48376343,0,0,0,43.25404737
+"Tonnage","2021Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2021Q1","Larne","Inwards",0,9.340004194,1.444932936,0,436.7528286,0.523162198,448.060928
+"Tonnage","2021Q1","Larne","Outwards",0,26.885,0,0,370.7636641,0.040868421,397.6895325
+"Tonnage","2021Q1","Londonderry","Inwards",8.223956519,261.3128028,187.5440855,0,0,0,457.0808449
+"Tonnage","2021Q1","Londonderry","Outwards",13.84453277,15.8695838,0,0,0,0,29.71411657
+"Tonnage","2021Q1","Warrenpoint","Inwards",77.36369578,85.64352724,10.34730319,7.734196004,313.7316718,0,494.820394
+"Tonnage","2021Q1","Warrenpoint","Outwards",37.77991705,56.14408209,0,101.8714938,391.7966532,0.02,587.6121461
+"Tonnage","2021Q2","Belfast","Inwards",88.99903153,928.9338174,479.9150248,248.0623609,1008.682436,8.137757615,2762.730428
+"Tonnage","2021Q2","Belfast","Outwards",12.49225685,769.037,0.359,198.4693291,1091.045608,0.183774373,2071.586969
+"Tonnage","2021Q2","Kilroot Power Station Jetty","Inwards",0,91.67145502,14.8712132,0,0,0,106.5426682
+"Tonnage","2021Q2","Kilroot Power Station Jetty","Outwards",0,10.71151686,0.841,0,0,0,11.55251686
+"Tonnage","2021Q2","Larne","Inwards",0,2.791764787,1.607634483,0,437.8080454,0.363699594,442.5711442
+"Tonnage","2021Q2","Larne","Outwards",0,4.028835533,0,0,390.1433106,0.054174641,394.2263208
+"Tonnage","2021Q2","Londonderry","Inwards",16.30740727,225.1402855,202.3144083,0,0,0,443.762101
+"Tonnage","2021Q2","Londonderry","Outwards",4.917623404,8.078679949,0,0,0,0,12.99630335
+"Tonnage","2021Q2","Warrenpoint","Inwards",65.85740891,62.15996349,11.20299355,6.138803996,309.5824669,0,454.9416369
+"Tonnage","2021Q2","Warrenpoint","Outwards",21.48533984,70.29632515,0,124.4475062,407.1166255,0,623.3457966
+"Tonnage","2021Q3","Belfast","Inwards",103.1010211,945.1635237,483.745907,255.5695159,989.0458727,6.642434651,2783.268275
+"Tonnage","2021Q3","Belfast","Outwards",2.209321918,925.6391717,0,183.4421108,1033.381061,0.18882312,2144.860489
+"Tonnage","2021Q3","Kilroot Power Station Jetty","Inwards",0,107.5332755,0,0,0,0,107.5332755
+"Tonnage","2021Q3","Kilroot Power Station Jetty","Outwards",0,3.848830125,0,0,0,0,3.848830125
+"Tonnage","2021Q3","Larne","Inwards",0,2.826231019,1.028345378,0,438.1584888,0.444405131,442.4574703
+"Tonnage","2021Q3","Larne","Outwards",0,4.095765487,0,0,396.3285137,0.01677512,400.4410543
+"Tonnage","2021Q3","Londonderry","Inwards",31.64651875,276.5820341,204.2887264,0,0,0,512.5172793
+"Tonnage","2021Q3","Londonderry","Outwards",10.71103112,34.42641268,0,0,0,0,45.1374438
+"Tonnage","2021Q3","Warrenpoint","Inwards",84.19418751,59.8702215,14.42896185,0,268.6877617,0,427.1811326
+"Tonnage","2021Q3","Warrenpoint","Outwards",11.79147312,37.73281793,0,0,210.5056552,0,260.0299463
+"Tonnage","2021Q4","Belfast","Inwards",93.60153342,1257.457052,549.1299662,247.8350924,1005.71352,6.966504645,3160.703669
+"Tonnage","2021Q4","Belfast","Outwards",11.58208562,786.729,0,207.1234855,990.3943121,0.210027855,1996.038911
+"Tonnage","2021Q4","Kilroot Power Station Jetty","Inwards",0,207.5199855,11.91202337,0,0,0,219.4320089
+"Tonnage","2021Q4","Kilroot Power Station Jetty","Outwards",0,2.187653019,0,0,0,0,2.187653019
+"Tonnage","2021Q4","Larne","Inwards",0,0,1.586087204,0,340.4626372,0.415733077,342.4644575
+"Tonnage","2021Q4","Larne","Outwards",3.999,2.60939898,0,0,317.6215116,0.004181818,324.2340924
+"Tonnage","2021Q4","Londonderry","Inwards",22.10811746,227.1408776,49.28077975,0,0,0,298.5297748
+"Tonnage","2021Q4","Londonderry","Outwards",13.11681271,17.91832356,0,0,0,0,31.03513628
+"Tonnage","2021Q4","Warrenpoint","Inwards",56.9677078,52.27028777,6.516741413,0,260.1090996,1.64,377.5038366
+"Tonnage","2021Q4","Warrenpoint","Outwards",46.68027,34.81377483,0,0,305.9840661,0,387.478111
+"Tonnage","2022Q1","Belfast","Inwards",104.1567969,1064.748699,545.4020499,242.6625908,979.0925724,7.728920348,2943.791629
+"Tonnage","2022Q1","Belfast","Outwards",13.85221863,779.1338852,0,209.898586,1053.372249,0.153141844,2056.410081
+"Tonnage","2022Q1","Kilroot Power Station Jetty","Inwards",0,123.7914203,0,0,0,0,123.7914203
+"Tonnage","2022Q1","Kilroot Power Station Jetty","Outwards",0,6.117467797,0,0,0,0,6.117467797
+"Tonnage","2022Q1","Larne","Inwards",0,0,2.03715029,0,482.727,0.61,485.3741503
+"Tonnage","2022Q1","Larne","Outwards",2.146,2.715180154,0,0,416.441,0.004,421.3061802
+"Tonnage","2022Q1","Londonderry","Inwards",30.56770352,266.6874924,166.6948186,0,0,0,463.9500146
+"Tonnage","2022Q1","Londonderry","Outwards",6.400299676,18.08589607,0,0,0,0,24.48619575
+"Tonnage","2022Q1","Warrenpoint","Inwards",51.8050058,54.32804048,11.02112459,1.435,264.7104009,1.469,384.7685718
+"Tonnage","2022Q1","Warrenpoint","Outwards",44.3543344,50.80034621,0,69.696,331.574237,0,496.4249176
+"Tonnage","2022Q2","Belfast","Inwards",73.55033894,937.5722431,402.0859611,250.0425097,1019.549179,7.898962597,2690.699194
+"Tonnage","2022Q2","Belfast","Outwards",7.741640883,655.1348708,0,186.9814995,1080.341442,0.165312057,1930.364766
+"Tonnage","2022Q2","Kilroot Power Station Jetty","Inwards",0,97.78899233,0,0,0,0,97.78899233
+"Tonnage","2022Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Tonnage","2022Q2","Larne","Inwards",0,0,1.430564684,0,434.887,0.948,437.2655647
+"Tonnage","2022Q2","Larne","Outwards",0,0,0,0,398.367,0.006,398.373
+"Tonnage","2022Q2","Londonderry","Inwards",9.408205138,199.3299015,144.8697331,0,0,0,353.6078397
+"Tonnage","2022Q2","Londonderry","Outwards",8.556347227,11.54721057,0,0,0,0,20.1035578
+"Tonnage","2022Q2","Warrenpoint","Inwards",69.04500025,16.21242057,15.18580897,0,387.2833628,0,487.7265926
+"Tonnage","2022Q2","Warrenpoint","Outwards",21.50574555,39.56896095,0,0,380.432285,0.041,441.5479915
+"Tonnage","2022Q3","Belfast","Inwards",64.068167,891.363208,380.0008638,247.3530954,910.9234744,8.140022491,2501.848831
+"Tonnage","2022Q3","Belfast","Outwards",8.597554303,585.3899625,0,190.956753,1002.084709,0.149085106,1787.178064
+"Tonnage","2022Q3","Kilroot Power Station Jetty","Inwards",0,57.61599548,12.063,0,0,0,69.67899548
+"Tonnage","2022Q3","Kilroot Power Station Jetty","Outwards",0,6.555286963,0,0,0,0,6.555286963
+"Tonnage","2022Q3","Larne","Inwards",3.832,6.039353148,0.926928403,0,525.339,1.069,537.2062816
+"Tonnage","2022Q3","Larne","Outwards",0,2.354819846,0,0,448.468,0.006,450.8288198
+"Tonnage","2022Q3","Londonderry","Inwards",27.44789123,229.0924662,179.7115453,0,0,0,436.2519027
+"Tonnage","2022Q3","Londonderry","Outwards",9.907919228,38.66202036,0,0,0,0,48.56993959
+"Tonnage","2022Q3","Warrenpoint","Inwards",50.87389444,36.83366387,7.79159003,0,216.9356997,0,312.4348481
+"Tonnage","2022Q3","Warrenpoint","Outwards",23.25546048,44.76777518,0,0,292.7104357,0,360.7336713
+"Tonnage","2022Q4","Belfast","Inwards",65.44869713,907.8258501,513.7031251,220.1748041,960.3357744,8.430094564,2675.918345
+"Tonnage","2022Q4","Belfast","Outwards",2.068586182,555.4862814,0,195.8061615,1032.3136,0.104460993,1785.77909
+"Tonnage","2022Q4","Kilroot Power Station Jetty","Inwards",0,103.1535919,0,0,0,0,103.1535919
+"Tonnage","2022Q4","Kilroot Power Station Jetty","Outwards",0,3.54624524,0,0,0,0,3.54624524
+"Tonnage","2022Q4","Larne","Inwards",0,4.911646852,1.103356622,0,515.172,1.115,522.3020035
+"Tonnage","2022Q4","Larne","Outwards",0,0,0,0,438.124,0.011,438.135
+"Tonnage","2022Q4","Londonderry","Inwards",14.28120011,273.7241398,216.106903,0,0,0,504.1122429
+"Tonnage","2022Q4","Londonderry","Outwards",4.667433869,33.490873,0,0,0,0,38.15830686
+"Tonnage","2022Q4","Warrenpoint","Inwards",44.1260995,62.73387509,4.611476411,0,235.1965366,0,346.6679876
+"Tonnage","2022Q4","Warrenpoint","Outwards",52.64145957,43.71391766,0,0,313.2640423,0,409.6194195
+"Tonnage","2023Q1","Belfast","Inwards",87.7284244,841.6309527,490.7152876,209.1721404,945.16342,9.945774927,2584.356
+"Tonnage","2023Q1","Belfast","Outwards",12.22477997,533.9211089,0,183.5235062,1108.183122,0.190483402,1838.043
+"Tonnage","2023Q1","Kilroot Power Station Jetty","Inwards",0,10.315,0,0,0,0,10.315
+"Tonnage","2023Q1","Kilroot Power Station Jetty","Outwards",0,1.885,0,0,0,0,1.885
+"Tonnage","2023Q1","Larne","Inwards",0,2.619915295,0.801974071,0,521.199149,1.185961656,525.807
+"Tonnage","2023Q1","Larne","Outwards",0,0,0,0,446.726,0.005000011,446.731
+"Tonnage","2023Q1","Londonderry","Inwards",23.83897897,278.7592115,65.67980957,0,0,0,368.278
+"Tonnage","2023Q1","Londonderry","Outwards",4.845289832,19.88571017,0,0,0,0,24.731
+"Tonnage","2023Q1","Warrenpoint","Inwards",68.38131175,49.67360038,7.097389658,0,216.5824242,7.327274028,349.062
+"Tonnage","2023Q1","Warrenpoint","Outwards",50.74702644,45.15838564,0,0,296.0763129,2.511275013,394.493
+"Tonnage","2023Q2","Belfast","Inwards",73.27099183,825.1884131,420.9010437,234.4825068,1025.547182,10.3438625,2589.734
+"Tonnage","2023Q2","Belfast","Outwards",9.32989344,628.3782383,0,185.7205009,1186.615411,0.178955965,2010.223
+"Tonnage","2023Q2","Kilroot Power Station Jetty","Inwards",0,47.298,0,0,0,0,47.298
+"Tonnage","2023Q2","Kilroot Power Station Jetty","Outwards",0,5.839,0,0,0,0,5.839
+"Tonnage","2023Q2","Larne","Inwards",0,4.224125707,0.964398543,0,452.6714513,1.396024475,459.256
+"Tonnage","2023Q2","Larne","Outwards",0.075007782,0,0,0,395.0909922,0,395.166
+"Tonnage","2023Q2","Londonderry","Inwards",45.19250022,339.7494713,40.36802852,0,0,0,425.31
+"Tonnage","2023Q2","Londonderry","Outwards",13.10967896,22.86132104,0,0,0,0,35.971
+"Tonnage","2023Q2","Warrenpoint","Inwards",76.57681365,62.16842646,5.819227032,0,245.6480866,8.597446284,398.81
+"Tonnage","2023Q2","Warrenpoint","Outwards",49.49515413,42.46756814,0,0,328.973845,3.10943276,424.046
+"Total Units","2018Q1","Belfast","Inwards",0,0,0,16.52927782,66.41163668,39.22597033,122.1668848
+"Total Units","2018Q1","Belfast","Outwards",0,0,0,15.95768329,68.60553763,27.53264154,112.0958625
+"Total Units","2018Q1","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q1","Larne","Inwards",0,0,0,0,25.81732493,10.914,36.73132493
+"Total Units","2018Q1","Larne","Outwards",0,0,0,0,23.255,9.939,33.194
+"Total Units","2018Q1","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q1","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q1","Warrenpoint","Inwards",0,0,0,1.395662802,12.03970972,2.754932769,16.19030529
+"Total Units","2018Q1","Warrenpoint","Outwards",0,0,0,1.295213503,13.25375793,0.285606178,14.83457761
+"Total Units","2018Q2","Belfast","Inwards",0,0,0,16.03486165,72.23851404,55.92406708,144.1974428
+"Total Units","2018Q2","Belfast","Outwards",0,0,0,16.14049362,73.99160836,42.07944296,132.2115449
+"Total Units","2018Q2","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q2","Larne","Inwards",0,0,0,0,25.81795338,18.702,44.51995338
+"Total Units","2018Q2","Larne","Outwards",0,0,0,0,23.753,17.61,41.363
+"Total Units","2018Q2","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q2","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q2","Warrenpoint","Inwards",0,0,0,1.883794016,12.68575484,3.488841628,18.05839049
+"Total Units","2018Q2","Warrenpoint","Outwards",0,0,0,1.916811601,13.69466465,0.347567761,15.95904402
+"Total Units","2018Q3","Belfast","Inwards",0,0,0,16.21385521,69.76901111,67.69862222,153.6814885
+"Total Units","2018Q3","Belfast","Outwards",0,0,0,15.18540025,70.85201069,55.68123358,141.7186445
+"Total Units","2018Q3","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q3","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q3","Larne","Inwards",0,0,0,0,25.98427974,26.535,52.51927974
+"Total Units","2018Q3","Larne","Outwards",0,0,0,0,24.513,25.065,49.578
+"Total Units","2018Q3","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q3","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q3","Warrenpoint","Inwards",0,0,0,1.090036517,13.03321001,3.312154737,17.43540126
+"Total Units","2018Q3","Warrenpoint","Outwards",0,0,0,1.153489177,8.935278281,0.239417375,10.32818483
+"Total Units","2018Q4","Belfast","Inwards",0,0,0,15.80200532,70.18183818,44.20134036,130.1851839
+"Total Units","2018Q4","Belfast","Outwards",0,0,0,15.91942285,70.79384332,32.77668192,119.4899481
+"Total Units","2018Q4","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q4","Larne","Inwards",0,0,0,0,26.25844195,13.837,40.09544195
+"Total Units","2018Q4","Larne","Outwards",0,0,0,0,24.617,11.987,36.604
+"Total Units","2018Q4","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2018Q4","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2018Q4","Warrenpoint","Inwards",0,0,0,1.786506665,12.67432542,2.554070867,17.01490296
+"Total Units","2018Q4","Warrenpoint","Outwards",0,0,0,1.690485719,14.33429914,0.281408687,16.30619354
+"Total Units","2019Q1","Belfast","Inwards",0,0,0,16.6510259,67.457,36.477,120.5850259
+"Total Units","2019Q1","Belfast","Outwards",0,0,0,15.96345212,69.76915183,27.31316326,113.0457672
+"Total Units","2019Q1","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q1","Larne","Inwards",0,0,0,0,25.397,10.615,36.012
+"Total Units","2019Q1","Larne","Outwards",0,0,0,0,23.84846481,10.060167,33.90863181
+"Total Units","2019Q1","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q1","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q1","Warrenpoint","Inwards",0,0,0,2.004727818,13.69147291,5.46400092,21.16020165
+"Total Units","2019Q1","Warrenpoint","Outwards",0,0,0,1.806610291,13.23288903,0.326,15.36549932
+"Total Units","2019Q2","Belfast","Inwards",0,0,0,15.99721837,71.301,59.259,146.5572184
+"Total Units","2019Q2","Belfast","Outwards",0,0,0,16.62138666,72.32291235,44.1145166,133.0588156
+"Total Units","2019Q2","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q2","Larne","Inwards",0,0,0,0,24.979,18.861,43.84
+"Total Units","2019Q2","Larne","Outwards",0,0,0,0,23.40149376,17.2542866,40.65578036
+"Total Units","2019Q2","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q2","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q2","Warrenpoint","Inwards",0,0,0,2.896364773,13.87298552,3.86299908,20.63234937
+"Total Units","2019Q2","Warrenpoint","Outwards",0,0,0,2.984668605,13.27707613,0.058358025,16.32010276
+"Total Units","2019Q3","Belfast","Inwards",0,0,0,16.8562814,72.129,71.005,159.9902814
+"Total Units","2019Q3","Belfast","Outwards",0,0,0,17.0074421,73.61942227,58.00299984,148.6298642
+"Total Units","2019Q3","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q3","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q3","Larne","Inwards",0,0,0,0,23.308,23.038,46.346
+"Total Units","2019Q3","Larne","Outwards",0,0,0,0,22.06853397,22.05536651,44.12390047
+"Total Units","2019Q3","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q3","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q3","Warrenpoint","Inwards",0,0,0,1.481725771,13.43628386,0,14.91800963
+"Total Units","2019Q3","Warrenpoint","Outwards",0,0,0,1.536219679,12.83331907,0,14.36953875
+"Total Units","2019Q4","Belfast","Inwards",0,0,0,16.10147433,71.451,46.066,133.6184743
+"Total Units","2019Q4","Belfast","Outwards",0,0,0,15.97871912,72.08051355,34.4893203,122.548553
+"Total Units","2019Q4","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q4","Larne","Inwards",0,0,0,0,25.982,12.699,38.681
+"Total Units","2019Q4","Larne","Outwards",0,0,0,0,23.24950746,10.83217989,34.08168735
+"Total Units","2019Q4","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2019Q4","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2019Q4","Warrenpoint","Inwards",0,0,0,2.215181638,12.80525772,1.818,16.83843936
+"Total Units","2019Q4","Warrenpoint","Outwards",0,0,0,2.273501425,12.18471577,0.188641975,14.64685917
+"Total Units","2020Q1","Belfast","Inwards",0,0,0,17.25445779,67.583,34.847,119.6844578
+"Total Units","2020Q1","Belfast","Outwards",0,0,0,14.29349522,70.006,25.47707145,109.7765667
+"Total Units","2020Q1","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q1","Larne","Inwards",0,0,0,0,25.572,8.325,33.897
+"Total Units","2020Q1","Larne","Outwards",0,0,0,0,23.569,7.898,31.467
+"Total Units","2020Q1","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q1","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q1","Warrenpoint","Inwards",0,0,0,2.12414877,10.86732777,3.068934581,16.06041112
+"Total Units","2020Q1","Warrenpoint","Outwards",0,0,0,1.890241271,9.954261994,0.214909725,12.05941299
+"Total Units","2020Q2","Belfast","Inwards",0,0,0,12.05081434,58.728,16.024,86.80281434
+"Total Units","2020Q2","Belfast","Outwards",0,0,0,13.11284152,61.111,13.91413498,88.1379765
+"Total Units","2020Q2","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q2","Larne","Inwards",0,0,0,0,18.642,2.528,21.17
+"Total Units","2020Q2","Larne","Outwards",0,0,0,0,15.861,2.442,18.303
+"Total Units","2020Q2","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q2","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q2","Warrenpoint","Inwards",0,0,0,2.345732483,9.705445172,1.204344046,13.2555217
+"Total Units","2020Q2","Warrenpoint","Outwards",0,0,0,2.113051337,9.009193759,0.088441818,11.21068692
+"Total Units","2020Q3","Belfast","Inwards",0,0,0,13.35184763,72.136,59.804,145.2918476
+"Total Units","2020Q3","Belfast","Outwards",0,0,0,13.21629913,71.477,51.05178537,135.7450845
+"Total Units","2020Q3","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q3","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q3","Larne","Inwards",0,0,0,0,25.093,13.352,38.445
+"Total Units","2020Q3","Larne","Outwards",0,0,0,0,23.849,12.534,36.383
+"Total Units","2020Q3","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q3","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q3","Warrenpoint","Inwards",0,0,0,1.639481723,14.26321868,3.754587649,19.65728805
+"Total Units","2020Q3","Warrenpoint","Outwards",0,0,0,1.911724322,18.42532018,0.150372595,20.4874171
+"Total Units","2020Q4","Belfast","Inwards",0,0,0,15.48988024,77.945,35.282,128.7168802
+"Total Units","2020Q4","Belfast","Outwards",0,0,0,15.69436412,76.95,23.7640082,116.4083723
+"Total Units","2020Q4","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q4","Larne","Inwards",0,0,0,0,27.439,6.499,33.938
+"Total Units","2020Q4","Larne","Outwards",0,0,0,0,24.874,5.237,30.111
+"Total Units","2020Q4","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2020Q4","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2020Q4","Warrenpoint","Inwards",0,0,0,2.598637023,13.70400838,2.135133724,18.43777912
+"Total Units","2020Q4","Warrenpoint","Outwards",0,0,0,2.446983069,12.30722407,0.167275862,14.921483
+"Total Units","2021Q1","Belfast","Inwards",0,0,0,15.84528355,71.37949349,24.70348518,111.9282622
+"Total Units","2021Q1","Belfast","Outwards",0,0,0,16.08804783,74.679,19.685,110.4520478
+"Total Units","2021Q1","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q1","Larne","Inwards",0,0,0,0,27.84691252,4.541585477,32.388498
+"Total Units","2021Q1","Larne","Outwards",0,0,0,0,26.18361239,4.132337741,30.31595013
+"Total Units","2021Q1","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q1","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q1","Warrenpoint","Inwards",0,0,0,5.890675508,13.31558869,0,19.2062642
+"Total Units","2021Q1","Warrenpoint","Outwards",0,0,0,4.500333099,17.36297142,0.039,21.90230452
+"Total Units","2021Q2","Belfast","Inwards",0,0,0,16.85355831,81.74066287,58.44194956,157.0361707
+"Total Units","2021Q2","Belfast","Outwards",0,0,0,16.75180395,82.235,46.59,145.5768039
+"Total Units","2021Q2","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q2","Larne","Inwards",0,0,0,0,28.85890966,12.2183909,41.07730056
+"Total Units","2021Q2","Larne","Outwards",0,0,0,0,27.31371624,10.58519678,37.89891302
+"Total Units","2021Q2","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q2","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q2","Warrenpoint","Inwards",0,0,0,3.989324492,13.21640608,0,17.20573058
+"Total Units","2021Q2","Warrenpoint","Outwards",0,0,0,5.458666901,18.11281695,0,23.57148385
+"Total Units","2021Q3","Belfast","Inwards",0,0,0,16.97755436,79.90400368,96.27558695,193.157145
+"Total Units","2021Q3","Belfast","Outwards",0,0,0,16.31084053,79.933,83.295,179.5388405
+"Total Units","2021Q3","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q3","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q3","Larne","Inwards",0,0,0,0,29.58333274,30.53304453,60.11637727
+"Total Units","2021Q3","Larne","Outwards",0,0,0,0,28.99999518,27.90145029,56.90144548
+"Total Units","2021Q3","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q3","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q3","Warrenpoint","Inwards",0,0,0,0,11.39597504,0,11.39597504
+"Total Units","2021Q3","Warrenpoint","Outwards",0,0,0,0,9.757972827,0,9.757972827
+"Total Units","2021Q4","Belfast","Inwards",0,0,0,16.72360377,79.85183997,63.47797832,160.0534221
+"Total Units","2021Q4","Belfast","Outwards",0,0,0,16.3543077,79.798,49.303,145.4553077
+"Total Units","2021Q4","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q4","Larne","Inwards",0,0,0,0,19.77384507,10.67497909,30.44882417
+"Total Units","2021Q4","Larne","Outwards",0,0,0,0,18.56367619,9.979015185,28.54269137
+"Total Units","2021Q4","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2021Q4","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2021Q4","Warrenpoint","Inwards",0,0,0,0,14.20603018,3.28,17.48603018
+"Total Units","2021Q4","Warrenpoint","Outwards",0,0,0,0,14.9202388,0,14.9202388
+"Total Units","2022Q1","Belfast","Inwards",0,0,0,16.44593034,78.856,44.312,139.6139303
+"Total Units","2022Q1","Belfast","Outwards",0,0,0,16.77864523,79.91267807,39.28735628,135.9786796
+"Total Units","2022Q1","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q1","Larne","Inwards",0,0,0,0,20.397,7.902,28.299
+"Total Units","2022Q1","Larne","Outwards",0,0,0,0,19.244,7.871,27.115
+"Total Units","2022Q1","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q1","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q1","Warrenpoint","Inwards",0,0,0,3.229,12.90518923,2.938,19.07218923
+"Total Units","2022Q1","Warrenpoint","Outwards",0,0,0,3.085,15.38577269,0,18.47077269
+"Total Units","2022Q2","Belfast","Inwards",0,0,0,16.1662911,82.307,77.117,175.5902911
+"Total Units","2022Q2","Belfast","Outwards",0,0,0,15.72789832,82.4816151,65.90483751,164.1143509
+"Total Units","2022Q2","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q2","Larne","Inwards",0,0,0,0,18.296,10.251,28.547
+"Total Units","2022Q2","Larne","Outwards",0,0,0,0,17.243,9.24,26.483
+"Total Units","2022Q2","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q2","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q2","Warrenpoint","Inwards",0,0,0,0,14.28835323,0,14.28835323
+"Total Units","2022Q2","Warrenpoint","Outwards",0,0,0,0,16.38487731,0.081,16.46587731
+"Total Units","2022Q3","Belfast","Inwards",0,0,0,15.400666,76.016,90.688,182.104666
+"Total Units","2022Q3","Belfast","Outwards",0,0,0,15.33611588,77.37586695,80.75301241,173.4649952
+"Total Units","2022Q3","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q3","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q3","Larne","Inwards",0,0,0,0,22.243,23.06,45.303
+"Total Units","2022Q3","Larne","Outwards",0,0,0,0,20.005,21.528,41.533
+"Total Units","2022Q3","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q3","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q3","Warrenpoint","Inwards",0,0,0,0,11.04815709,0,11.04815709
+"Total Units","2022Q3","Warrenpoint","Outwards",0,0,0,0,13.04024314,0,13.04024314
+"Total Units","2022Q4","Belfast","Inwards",0,0,0,14.91611256,77.931,58.386,151.2331126
+"Total Units","2022Q4","Belfast","Outwards",0,0,0,15.21434056,77.69883988,46.2057938,139.1189742
+"Total Units","2022Q4","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q4","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q4","Larne","Inwards",0,0,0,0,21.682,12.824,34.506
+"Total Units","2022Q4","Larne","Outwards",0,0,0,0,19.356,10.903,30.259
+"Total Units","2022Q4","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2022Q4","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2022Q4","Warrenpoint","Inwards",0,0,0,0,13.04930045,0,13.04930045
+"Total Units","2022Q4","Warrenpoint","Outwards",0,0,0,0,14.12310685,0,14.12310685
+"Total Units","2023Q1","Belfast","Inwards",0,0,0,14.23707308,76.19602224,45.08990468,135.523
+"Total Units","2023Q1","Belfast","Outwards",0,0,0,14.06022706,77.43018004,37.99159291,129.482
+"Total Units","2023Q1","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2023Q1","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2023Q1","Larne","Inwards",0,0,0,0,21.5,9.087,30.587
+"Total Units","2023Q1","Larne","Outwards",0,0,0,0,19.433,8.845,28.278
+"Total Units","2023Q1","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2023Q1","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2023Q1","Warrenpoint","Inwards",0,0,0,0,11.166,3.013,14.179
+"Total Units","2023Q1","Warrenpoint","Outwards",0,0,0,0,13.76412413,0.234875871,13.999
+"Total Units","2023Q2","Belfast","Inwards",0,0,0,14.89129484,83.57004262,70.47866255,168.94
+"Total Units","2023Q2","Belfast","Outwards",0,0,0,14.10486181,83.30193662,56.84520157,154.252
+"Total Units","2023Q2","Kilroot Power Station Jetty","Inwards",0,0,0,0,0,0,0
+"Total Units","2023Q2","Kilroot Power Station Jetty","Outwards",0,0,0,0,0,0,0
+"Total Units","2023Q2","Larne","Inwards",0,0,0,0,19.171,16.299,35.47
+"Total Units","2023Q2","Larne","Outwards",0,0,0,0,17.621,15.241,32.862
+"Total Units","2023Q2","Londonderry","Inwards",0,0,0,0,0,0,0
+"Total Units","2023Q2","Londonderry","Outwards",0,0,0,0,0,0,0
+"Total Units","2023Q2","Warrenpoint","Inwards",0,0,0,0,12.771,3.229,16
+"Total Units","2023Q2","Warrenpoint","Outwards",0,0,0,0,14.76832045,0.267679554,15.036

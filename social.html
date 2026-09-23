@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head></head>
+<body style="display:none;" class="d-flex flex-column min-vh-100">
+
+<div id="cookie-banner"></div>
+
+<banner id="banner"></banner>
+  <!-- Top Navbar -->
+<nav id ="nav"></nav>
+
+<!-- Main Content -->
+<main class="flex-grow-1">
+<div class="w-100 text-center current-page-strapline py-2">Discover what the latest data tells us about people and society in Northern Ireland</div>
+
+<div id="content" class="container-fluid">
+        
+    <div class = "py-2">
+        <!-- First row - cards -->
+        <div class="row text-center">
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 navy-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>The estimated population was
+                            <br><span id="card-1-value" class="display-6"></span>
+                            <br>in mid-<span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>Life expectancy at birth was
+                            <br><span id="card-2-value" class="display-6"></span><span class="unit">years</span>
+                            <br>for females (CHANGE THIS)
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>The proportion of people in relative poverty was
+                            <br><span id="card-3-value" class="display-6"></span><span class="unit">%</span>
+                            <br>before housing costs in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>Of school leavers,
+                            <br><span id="card-4-value" class="display-6"></span><span class="unit">%</span>
+                            <br>achieved at least five GCSEs at grades A* to C or equivalent in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>Of adults
+                            <br><span id="card-5-value" class="display-6"></span><span class="unit">%</span>
+                            <br>felt a sense of belonging to their neighbourhood in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xl py-2">
+                <div class="card h-100 blue-bg">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <p>The average life satisfaction score was
+                            <br><span id="card-6-value" class="display-6"></span><span class="unit">out of 10</span>
+                            <br>for people aged 16 and over in <span class="latest-year"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Second row - tables and charts -->
+         <!-- Chart cards start -->
+        <div class="row">
+            <div class="col-12 col-xl-6 py-2">
+                <div class="card h-100">
+                    <div id="chart-1-capture">
+                        <div class="card-header"></div>
+                        <div class="card-body d-flex flex-column justify-content-center"></div>
+                    </div>
+                    <div class="card-footer"></div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-6 py-2">
+                <div class="card h-100">
+                    <div id="chart-2-capture">
+                    <div class="card-header"></div>
+                    <div class="card-body d-flex flex-column justify-content-center"></div>
+                    </div>
+                    <div class="card-footer"></div>
+                </div>
+            </div>
+        </div>
+        <!-- Chart cards end -->
+
+        <!-- Third row - Definitions -->
+        <div id="info-boxes"></div>
+        
+    </div>
+        
+    
+</div>
+
+</main>
+
+<footer id = "footer"></footer>
+
+<script type = "module" src="src/social.js"></script>
+
+
+</body>
+</html>
